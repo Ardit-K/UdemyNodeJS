@@ -17,7 +17,7 @@ console.log(name, age);
 // console.log(copiedPerson);
 const hobbies = ['Sports', 'Cooking'];
 const [hobby1, hobby2] = hobbies;
-console.log(hobby1, hobby2);
+console.log(hobby1, hobby2);a
 // // console.log(hobbies.map(hobby => {
 // //     return 'Hobby: ' + hobby;
 // // }));
